@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="keywords" content="boutique, women's clothing, shoes">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  
+ <header>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="/styles.css">
+<link rel="tops" href="/tops.html">
+<link rel="bottom" href="/bottoms.html">
+<link rel="dresses" href="/dresses.html">
+<link rel="plus" href="/plus.html">
+<link rel="accessories" href="/accessories.html">
+</header>
+
+ <body> 
+   <!-- Navbar (sit on top) -->
+<div class="top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="#home" class="w3-bar-item w3-button"><b>La Petite Boutique's Catalog</b></a>
+    
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="right-center hide-small">
+        <a href="/index.html" class="w3-bar-item w3-button">Home</a>
+        <a href="/Tops.html" class="w3-bar-item w3-button" >Tops</a>
+        <a href="/bottoms.html" class="w3-bar-item w3-button">Bottoms</a>
+        <a href="/dresses.html" class="w3-bar-item w3-button">Dresses</a>
+        <a href="/plus.html" class="w3-bar-item w3-button">Plus</a>
+        <a href="/accessories.html" class="w3-bar-item w3-button">Accessories</a>
+        <a href="/about.html" class="w3-bar-item w3-button">About</a>
+    </div>
+  </div>
+</div>
+
+<div class="col-md-6 col-md-push-3">
+  <!-- jumbotron (center) -->
+</div>
+
+<div class="container">
+  <div class="jumbotron">
+    <h>FUN IN THE SUN!</h>
+    <p>Get 30% off the entire store from now until May 18, 2018</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="jumbotron">
+   <img src="https://images.pexels.com/photos/859191/pexels-photo-859191.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" width="800" height="600">
+  </div>
+</div>
+
+   <imag src="https://images.pexels.com/photos/905247/pexels-photo-905247.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" width="600" height="200">
+ 
+
+<div class="container">
+  <div class="jumbotron">
+    <imag src="https://www.forever21.com/images/1_front_750/00279203-01.jpg"  width="500" height="250">
+  </div>
+</div>
+
+<div class="container">
+  <div class="jumbotron">
+    <P>$15 shorts</P>
+    <imag src="https://www.forever21.com/images/default_330/00260732-04.jpg" align="left" >
+  </div>
+</div>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+             
+    
+    <meta charset="utf-8"/>
+
+<title>La Petite Boutique's Catalog</title>
+
+<meta name="generator" content="Wix.com Website Builder">
+
+<meta name="fb_admins_meta_tag" content=""/>
+<link rel="shortcut icon" href="https://www.wix.com/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="https://www.wix.com/favicon.ico" type="image/x-icon"/>
+    <script type="text/javascript">
+    var santaBase = 'https://static.parastorage.com/services/santa/1.2764.38';
+    var clientSideRender = true;
+</script>
+
+
+<script defer src="https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js"></script>
+
+<script defer src="https://static.parastorage.com/polyfill/v2/polyfill.min.js?features=es2015,es2016,es2017,fetch&flags=gated&unknown=polyfill&rum=0"></script>
+
+
+
+<script defer src="https://static.parastorage.com/services/santa/1.2764.38/app/main-r.min.js"></script>
+
+<link rel="preload" href="https://static.parastorage.com/unpkg/lodash@4.17.4/lodash.min.js" as="script">
+<link rel="preload" href="https://static.parastorage.com/unpkg/zepto@1.2.0/dist/zepto.min.js" as="script">
+<link rel="preload" href="https://static.parastorage.com/unpkg/react@15.5.4/dist/react-with-addons.min.js" as="script">
+
+
+<link rel="preconnect" href="https://static.wixstatic.com/" crossorigin>
+<link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+
+    <meta http-equiv="X-Wix-Renderer-Server" content="*.42.*.*"/>
+<meta http-equiv="X-Wix-Meta-Site-Id" content="16dcad0e-953b-4c09-ae4a-2abc30d21d17"/>
+<meta http-equiv="X-Wix-Application-Instance-Id" content="a51d32ee-c2eb-494c-86b9-0d1c722f9f85"/>
+<meta http-equiv="X-Wix-Published-Version" content="182"/>
+
+<meta http-equiv="etag" content="1b47de1b001c00db8e3fa5e8c8daaa9d"/>
+<meta name="robots" content="noindex"/>
+<link rel="alternate" hreflang="en" href="https://www.wix.com/demone2/plants-boutique"/>
+<link rel="alternate" hreflang="x-default" href="https://www.wix.com/demone2/plants-boutique"/>
+<meta property="og:title" content="plants-boutique"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.wix.com/demone2/plants-boutique"/>
+<meta property="og:site_name" content="plants-boutique"/>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+<meta id="wixMobileViewport" name="viewport" content="width=980, user-scalable=yes"/>
+
+
+
+
+
+<div class="container">
+  <div class="jumbotron">
+   <img src="https://images.pexels.com/photos/859191/pexels-photo-859191.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" width="800" height="600">
+  </div>
+</div>
+
+   <imag src="https://images.pexels.com/photos/905247/pexels-photo-905247.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" width="600" height="200">
+ 
+
+<div class="container">
+  <div class="jumbotron">
+    <imag src="https://www.forever21.com/images/1_front_750/00279203-01.jpg"  width="500" height="250">
+  </div>
+</div>
+
+
+    <imag src="https://www.forever21.com/images/default_330/00260732-04.jpg" align="left" >
+  </div>
+</div>
+
+  
+  
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 4</div>
+    <img src="https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js" style="width:100%">
+    <div class="text">Caption Text</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 4</div>
+    <img src="https://static.parastorage.com/polyfill/v2/polyfill.min.js?features=es2015,es2016,es2017,fetch&flags=gated&unknown=polyfill&rum=0" style="width:100%">
+    <div class="text">Caption Two</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 4</div>
+    <img src="https://static.parastorage.com/services/santa/1.2764.38/app/main-r.min.js" style="width:100%">
+    <div class="text">Caption Three</div>
+  </div>
+  
+  
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 4</div>
+    <img src="https://images.pexels.com/photos/859191/pexels-photo-859191.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" style="width:100%">
+    <div class="text">Caption Three</div>
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+</div>
+
+
+
+
+
+{stuff for image grid }
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+.header {
+    text-align: center;
+    padding: 32px;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+.column img {
+    margin-top: 12px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+
+
+<!-- Photo Grid -->
+<div class="row"> 
+  <div class="column">
+    <img src="/w3images/wedding.jpg" style="width:100%">
+    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="/w3images/falls2.jpg" style="width:100%">
+    <img src="/w3images/paris.jpg" style="width:100%">
+    <img src="/w3images/nature.jpg" style="width:100%">
+    <img src="/w3images/mist.jpg" style="width:100%">
+    <img src="/w3images/paris.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+    <img src="/w3images/ocean.jpg" style="width:100%">
+    <img src="/w3images/wedding.jpg" style="width:100%">
+    <img src="/w3images/mountainskies.jpg" style="width:100%">
+    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+  </div>  
+  <div class="column">
+    <img src="/w3images/wedding.jpg" style="width:100%">
+    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="/w3images/falls2.jpg" style="width:100%">
+    <img src="/w3images/paris.jpg" style="width:100%">
+    <img src="/w3images/nature.jpg" style="width:100%">
+    <img src="/w3images/mist.jpg" style="width:100%">
+    <img src="/w3images/paris.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+    <img src="/w3images/ocean.jpg" style="width:100%">
+    <img src="/w3images/wedding.jpg" style="width:100%">
+    <img src="/w3images/mountainskies.jpg" style="width:100%">
+    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+  </div>
+</div>
+{end of image grid / play with this later}
+
+
+<div class="container">
+        <div class="jumbotron">
+          <img src="https://www.rue21.com/content/030118_HP_Dresses_04.jpg" width="400" height="500" align:float "right">
+        </div>
+      </div>
+      
+      <div class="conatiner">
+       <div class="jumbotron">
+        <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjzkOrMrIDaAhVL4VMKHdGPCboQjRx6BAgAEAU&url=https%3A%2F%2Fmohho.pl%2Fpl%2Fp%2FBody- sczarne-ze-stojka-siateczka-hit-modowy-%2F6103&psig=AOvVaw0z4OhZDQkJtCu7ggm6jMsd&ust=1521819292120229" style="20%">
+       </div>  
+      </div>
+
+
+{old slideshow}
+   <div class="slideshow-container">
+
+      <div class="mySlides fade">
+        <div class="numbertext">1 / 3</div>
+        <img src="https://images.pexels.com/photos/859191/pexels-photo-859191.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" style="width:40%">
+        <div class="text"></div>
+      </div>
+
+      <div class="mySlides fade">
+        <div class="numbertext">2 / 3</div>
+        <img src="https://images.pexels.com/photos/905247/pexels-photo-905247.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" style="width:40%">
+        <div class="text"></div>
+      </div>
+
+      <div class="mySlides fade">
+        <div class="numbertext">3 / 3</div>
+        <img src="https://images.pexels.com/photos/923233/pexels-photo-923233.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" style="width:40%">
+        <div class="text"></div>
+      </div>
+
+    </div>
+    <br>
+
+    <div style="text-align:center">
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+    </div>
+
+    <script>
+      var slideIndex = 0;
+      showSlides();
+
+      function showSlides() {
+        var i;
+        var slides = document.getElementsByClassName("mySlides");
+        var dots = document.getElementsByClassName("dot");
+        for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+        }
+        slideIndex++;
+        if (slideIndex > slides.length) { slideIndex = 1 }
+        for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex - 1].style.display = "block";
+        dots[slideIndex - 1].className += " active";
+        setTimeout(showSlides, 2000); // Change image every 2 seconds
+      }
+    </script>
+
+
+    <!-- Header -->
+    <header class="w3-display-container w3-content w3-center" style="max-width:500px">
+      <img class="w3-image" src="https://officialblackwallstreet.com/wp-content/uploads/2016/06/black-owned-swimwear.jpg" alt="Me" width="600" height="600">
+      <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
+      </div>
+      {end off old slideshow}
+
+
+
+<div class="container">
+  <div class="jumbotron">
+    <h>FUN IN THE SUN!</h>
+    <p>Get 30% off the entire store from now until May 18, 2018</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+{old tops page}
+
+
+<div class="container">
+    <img src="https://www.lulus.com/images/product/large/3002260_570132.jpg" style="width:20%">
+    <p></p><br>Candy Strip Top<b>$20.99</b></p>
+</div>
+</div>
+
+<div class="container">
+    <img src="https://i.pinimg.com/originals/cd/88/16/cd8816199ac31062b3ac2feca5941d7c.jpg" alt="top" width="200" height="250" align="middle"> 
+    <align="midde"><p></p><br>Off The Shoulder Sweater <b>$15.99</b></p></align>
+</div>
+</div>
+
+<div class="container">
+    <img src="https://i.pinimg.com/originals/d1/5e/f6/d15ef66355160ee5ed149914723fcb79.jpg" style="width:20%">
+    <p></p><br>Mesh BodySuit<b>$15.99</b></p>
+</div>
+</div>
+
+<div class="container">
+    <img src="https://cdn-images.prettylittlething.com/6/6/7/3/667369174ae6431bbbe0651c04ed10a5f03583d7_CLP6988_1.JPG?imwidth=1024" style="width:20%">
+    <p></p><br>Boss Lady Top<b>$19.99</b></p>
+</div>
+</div>
+
+<div class="container">
+    <img src="https://cdn.shopify.com/s/files/1/1987/2471/products/4_dc9e3a87-af9d-4938-8f68-49b03bb21992_2000x.jpg?v=1502096121" style="width:20%">
+    <p></p><br>Summer Days<b>$10.99</b></p>
+</div>
+</div>
+<div class="container">
+    <img src="https://i.pinimg.com/736x/95/c3/68/95c368d95d280c7abedb720505ab603c--color-fashion-fashion-photo.jpg" align:"top" style="width: 20%">
+    <p></p><br>Hippie Times<b>$22.99</b></p>    
+</div>
